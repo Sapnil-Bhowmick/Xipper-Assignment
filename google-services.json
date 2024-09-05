@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "569041621224",
+    "project_id": "xipper-d0857",
+    "storage_bucket": "xipper-d0857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569041621224:android:91ada12979df4500ae795d",
+        "android_client_info": {
+          "package_name": "com.sapnilbhowmik.XipperAssignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf0qWmLlaEGJCD1ZQnamJftjhFIC7feo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
